@@ -9,3 +9,14 @@
 
 - ls : 폴더내용 리스팅
 - cd 폴더명 : 폴더 접근
+
+# 순서
+
+- git 다운 (https://git-scm.com/)
+- 원하는 폴더에서 마우스 우클릭 -> git bash here
+- git clone 주소
+
+# vs code
+
+- 다운로드
+- 폴더열기로 위에서 git으로 땡긴 폴더 열기
